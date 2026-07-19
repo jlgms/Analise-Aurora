@@ -1,0 +1,10 @@
+sku,nome,categoria,variante,preco_unitario,custo_unitario,margem_unitaria,margem_pct
+SKU-CXP-PAD,Caixa Pequena Padrão,pequena,padrao,2.8,2.5,0.3,10.71
+SKU-CXP-CUS,Caixa Pequena Customizada,pequena,customizada,3.4,2.85,0.55,16.18
+SKU-CXP-PRE,Caixa Pequena Premium,pequena,premium,4.2,3.3,0.9,21.43
+SKU-CXM-PAD,Caixa Média Padrão,media,padrao,4.2,3.4,0.8,19.05
+SKU-CXM-CUS,Caixa Média Customizada,media,customizada,5.2,4.05,1.15,22.12
+SKU-CXM-PRE,Caixa Média Premium,media,premium,6.8,5.1,1.7,25
+SKU-CXG-PAD,Caixa Grande Padrão,grande,padrao,6.5,5.1,1.4,21.54
+SKU-CXG-CUS,Caixa Grande Customizada,grande,customizada,8.2,6.2,2,24.39
+SKU-CXG-PRE,Caixa Grande Premium,grande,premium,10.5,7.8,2.7,25.71

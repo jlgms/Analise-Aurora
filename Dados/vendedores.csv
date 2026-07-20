@@ -1,0 +1,9 @@
+vendedor_codigo,nome_completo,apelido,tipo,regiao_atendimento,ano_admissao,num_clientes_carteira
+V-001,Luciana Albuquerque,Luciana,interno,Carteira top (top 20 clientes) — atende telefone direto,2019,28
+V-002,Lúcio Tavares de Oliveira,Lúcio,externo,"Sudoeste PR (Pato Branco, Francisco Beltrão, Cascavel, Foz)",2014,64
+V-003,Joana Rebello Mendes,Joana,externo,"Norte PR + Centro-Oeste (Maringá, Londrina, Campo Mourão, Apucarana)",2017,71
+V-004,Pedro Caputo Soares,Pedro,externo,São Paulo capital + ABC + Interior SP,2021,42
+V-005,Camila Yoshida Tanaka,Camila T.,externo,Santa Catarina + Sul SP,2020,53
+V-006,Rogério Schmidt Fritz,Rogério,interno,Carteira média (clientes 21-100 do ranking) — telefone e e-mail,2015,88
+V-007,Bruna Almeida Costa,Bruna,interno,Cauda longa (clientes pequenos eventuais) + cotações novas,2023,247
+V-COR,Marisa Pelegrini,Marisa,coordenador,Gestão do time + atende pessoalmente top 5 Aurora,2003,5

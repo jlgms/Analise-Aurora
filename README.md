@@ -19,6 +19,21 @@ perguntas de negócio a partir do dado bruto.
 └── excel/        Planilha e Dashboard 
 ```
 
+## Como rodar
+
+**SQL** — importe os CSVs de `dados/` no [DB Browser for SQLite](https://sqlitebrowser.org)
+e rode `sql/consultas.sql`. Passo a passo em [`sql/README.md`](sql/README.md).
+
+**Python** — instale as dependências e abra o notebook:
+
+```bash
+pip install -r python/requirements.txt
+jupyter notebook python/analise_aurora.ipynb
+```
+
+**Excel** — abra `dados/pedidos.csv` e siga
+[`excel/como-montar-o-dashboard.md`](excel/como-montar-o-dashboard.md).
+
 ## A pergunta
 
 **Por que um mês despencou de faturamento, e onde o faturamento esconde pouca margem?**

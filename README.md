@@ -15,8 +15,8 @@ perguntas de negócio a partir do dado bruto.
 .
 ├── dados/        CSVs (pedidos, itens, clientes, produtos, vendedores) + dicionário
 ├── sql/          5 consultas feitas no SQLite
-├── python/       Notebook de análise em pandas 
-└── excel/        Planilha e Dashboard 
+├── python/       Notebook de análise em pandas + requirements
+└── excel/        Dashboard + passo a passo para montar o Dashboard
 ```
 
 ## Como rodar

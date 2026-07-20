@@ -9,6 +9,8 @@ perguntas de negócio a partir do dado bruto.
 > Os dados são de uma empresa fictícia usada numa imersão de dados. Os números são reais
 > no sentido de coerentes entre si: as tabelas cruzam e as contas fecham.
 
+![Dashboard Aurora](Excel/Dashboard_Aurora.png)
+
 ## O que tem neste repositório
 
 ```
